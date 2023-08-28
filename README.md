@@ -1,6 +1,6 @@
 # Exercícios em C# - LTP3 Danielle
 
-Este repositório contém uma série de exercícios em C# para na matéria de LTP3.
+Este repositório contém uma série de exercícios em C# para a matéria de LTP3.
 
 ## Como Usar
 
