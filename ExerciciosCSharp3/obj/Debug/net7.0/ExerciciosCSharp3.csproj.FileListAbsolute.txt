@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ExerciciosCSharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ExerciciosCSharp3.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ExerciciosCSharp3.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ExerciciosCSharp3.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\bin\Debug\net7.0\ExerciciosCSharp3.exe
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\bin\Debug\net7.0\ExerciciosCSharp3.deps.json
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\bin\Debug\net7.0\ExerciciosCSharp3.runtimeconfig.json
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\bin\Debug\net7.0\ExerciciosCSharp3.dll
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\bin\Debug\net7.0\ExerciciosCSharp3.pdb
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ExerciciosCSharp3.dll
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\refint\ExerciciosCSharp3.dll
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ExerciciosCSharp3.pdb
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ExerciciosCSharp3.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Danielle\Ltp3\Csharp\ExerciciosCSharp3\obj\Debug\net7.0\ref\ExerciciosCSharp3.dll
