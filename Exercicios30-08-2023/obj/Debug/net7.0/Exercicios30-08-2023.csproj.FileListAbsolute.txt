@@ -1,0 +1,15 @@
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\bin\Debug\net7.0\Exercicios30-08-2023.exe
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\bin\Debug\net7.0\Exercicios30-08-2023.deps.json
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\bin\Debug\net7.0\Exercicios30-08-2023.runtimeconfig.json
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\bin\Debug\net7.0\Exercicios30-08-2023.dll
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\bin\Debug\net7.0\Exercicios30-08-2023.pdb
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.csproj.AssemblyReference.cache
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.AssemblyInfoInputs.cache
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.AssemblyInfo.cs
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.csproj.CoreCompileInputs.cache
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.dll
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\refint\Exercicios30-08-2023.dll
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.pdb
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\Exercicios30-08-2023.genruntimeconfig.cache
+D:\Users\gonca\Documents\Faculdade\8 Semestre\LTP3\ltp3\Exercicios30-08-2023\obj\Debug\net7.0\ref\Exercicios30-08-2023.dll
